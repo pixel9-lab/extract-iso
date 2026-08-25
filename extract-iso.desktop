@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Extract ISO
+GenericName=ISO Extractor
+Comment=Extract an ISO image into ./ext in the chosen directory
+TryExec=/home/Architect/.local/bin/extract-iso.sh
+Exec=/home/Architect/.local/bin/extract-iso.sh --desktop %f
+Icon=media-optical
+Terminal=false
+Categories=Utility;Archiving;
+MimeType=application/vnd.efi.iso;application/x-iso9660-image;application/x-cd-image;application/x-iso;
+Keywords=iso;extract;7z;archive;
+StartupNotify=false
