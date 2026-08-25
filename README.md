@@ -1,6 +1,6 @@
 # extract-iso
 
-One Bash script to extract ISO images with `7z` into an `./ext` folder — plus a desktop entry for your app menu / file manager.
+Bash script to extract ISO images with `7z` into an `./ext` folder — plus a desktop entry for your app menu / file manager.
 
 ## Features
 
