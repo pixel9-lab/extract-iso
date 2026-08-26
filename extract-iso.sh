@@ -26,7 +26,7 @@ banner() {
   printf "%s
 " "${BOLD}${CYAN}========================================${RESET}"
   printf "%s
-" "${BOLD}${CYAN}         ISO Extractor Theme            ${RESET}"
+" "${BOLD}${CYAN}            ISO Extractor               ${RESET}"
   printf "%s
 " "${BOLD}${CYAN}========================================${RESET}"
 }
